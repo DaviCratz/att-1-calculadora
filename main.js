@@ -1,1 +1,4 @@
-// Add JS here
+function somar(event) {
+
+    event.preventDefault()
+    
